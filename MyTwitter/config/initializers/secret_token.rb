@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Sticker::Application.config.secret_token = '61d7e7a8541d530523605a87c8fbf3cbab4224f222832f5818e777d339c161982e8611d1efddbc639ab974b59d71f3d52ca00893a6d5d2b6a9f629bf92a2579b'
+MyTwitter::Application.config.secret_token = '8302a0e5f72d0d2e08ddc74091b6bd7222e1594b77700c69d5a843af795d114bf9c638c7e81e8d2bc5940c3dd1dbfa6793c9b6359835d6a9147eb6cf6d803c19'
